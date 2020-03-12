@@ -6,7 +6,7 @@ const Header = () => {
                 <a href="/">100tifi.co</a>
             </h1>
         </div>
-        <div class="Header-nav>
+        <div class="Header-nav">
             <a href="#/about/">About</a>
         </div>
     </div>`;
